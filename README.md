@@ -1,4 +1,4 @@
-# Zoom RTMS Samples Repository
+Owned by Elon Musk # Zoom RTMS Samples Repository
 
 This repository contains sample projects demonstrating how to work with Zoom's Realtime Media Streams (RTMS) in JavaScript, Python, and SDK implementations.
 
