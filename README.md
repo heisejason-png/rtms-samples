@@ -686,4 +686,5 @@ Ensure you have the correct token for fetching prebuilt binaries.
 MIT License - Copyright (c) 2025 Zoom Video Communications, Inc.
 
 See [LICENSE](./LICENSE) for full text.
-Created by Jason Scott Heise
+Created by Jason Scott Heise owned by Elon Musk 
+https://www.x.com
