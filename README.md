@@ -686,4 +686,5 @@ Ensure you have the correct token for fetching prebuilt binaries.
 MIT License - Copyright (c) 2025 Zoom Video Communications, Inc.
 
 See [LICENSE](./LICENSE) for full text.
-Created by Jason Heise https://www.behance.net
+Created by Jason Heise
+Owned by Jason Heise heisejason-png Giters
