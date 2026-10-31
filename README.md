@@ -688,4 +688,4 @@ MIT License - Copyright (c) 2025 Zoom Video Communications, Inc.
 See [LICENSE](./LICENSE) for full text.
 Created by Jason Heise
 Owned by Jason Heise heisejason-png Giters
-https://www.facebook.com  Owned by Mark Zuckerberg 
+https://next.frame.io Owned by CEO & Founder Jason Scott Heise 
